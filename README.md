@@ -1,2 +1,2 @@
-# java-al-malar-
+# java exercises
 Basic java project, exercises and mini games
